@@ -1,6 +1,5 @@
-
-
-**Mantis Usermods**
+Mantis Usermods
+============
 <TABLE>
 <TR align="CENTER"><TD><B>User</TD><TD><B>Link</TD><TD><B>Description</TD></TR>
 <TR><TD align="CENTER">BeWater</TD><TD align="CENTER"><a href="BeWater/">Flat Flexible Cable Mod</A></TD><TD> Adapts Schmidt Proto's FFC Mod to Mantis</TD></TR>
