@@ -13,6 +13,5 @@
 <TR><TD align="CENTER"><a href="https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead">TheWarolf</A><BR>(his repository)</TD><TD align="CENTER"><a href="https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead/Sensorized_Hotend_Mount">Sensorized Hotend Mount</A></TD><TD>Mod to the hotend mount to add an ERCF Sensor. </TD></TR>
 <TR><TD align="CENTER"></TD><TD align="CENTER"><a href="https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead/Sailfin_Mount">Sailfin Carriage</A></TD><TD>MGN12 carriage to use the Sailfin Extruder. </TD></TR>
 <TR><TD align="CENTER"></TD><TD align="CENTER"><a href="https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead/LGX_Lite_Toolhead">LGX Lite Toolhead</A></TD><TD>Mantis modified to work with LGX Lite</TD></TR>
-<TR><TD align="CENTER">Wingzero</TD><TD align="CENTER"><a href=""></A></TD><TD></TD></TR>
-<TR><TD align="CENTER"></TD><TD align="CENTER"><a href="Wingzero/">Mosquito Hotend Mount</A></TD><TD>Mount a Mosquito hotend with Mantis</TD></TR>
+<TR><TD align="CENTER">Wingzero</TD><TD align="CENTER"><a href="Wingzero/">Mosquito Hotend Mount</A></TD><TD>Mount a Mosquito hotend with Mantis</TD></TR>
 </TABLE>
