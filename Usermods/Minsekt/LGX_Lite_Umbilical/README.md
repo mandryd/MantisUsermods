@@ -9,13 +9,13 @@
 
 CURRENTLY ONLY COMPATIBLE WITH THIS COMBINATION OF MODS:
 
-[EUCLID MGN12H X-CARRIAGE](Minsekt/MGN12H_Native_Euclid)
+[EUCLID MGN12H X-CARRIAGE](https://github.com/Minsekt/MantisUsermods/tree/main/Usermods/Minsekt/MGN12H_Native_Euclid)
 
-[SENSORISED HOTEND-CARRIAGE](Minsekt/Dragon_Sensorised_Carriage_(LGX_LITE))
+[SENSORISED HOTEND-CARRIAGE](https://github.com/Minsekt/MantisUsermods/tree/main/Usermods/Minsekt/Dragon_Sensorised_Carriage_(LGX_LITE))
 
 LGX LITE EXTRUDER
 
-Works best with this [Rear Umbilical Mod](Minsekt/LGX_Lite_Umbilical) of me.
+Works best with this [Rear Umbilical Mod](https://github.com/Minsekt/MantisUsermods/tree/main/Usermods/Minsekt/LGX_Lite_Umbilical) of me.
 
 ![](https://github.com/Minsekt/moronvods/blob/main/Mantis_Mods/LGX_Lite_Umbilical/images/IMG_8925.jpg)
 ![](https://github.com/Minsekt/moronvods/raw/main/Mantis_Mods/Nozzle_LED_Ducts/images/2022-04-16T22_53_09.png)
