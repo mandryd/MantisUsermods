@@ -2,13 +2,13 @@
 
 fixed asymmetry and made some slight modifications on it.
 
-CURRENTLY ONLY WORKS WITH
+❗ATTENTION ❗
 
-LGX LITE EXTRUDER
+Currently only working in the combination with these two mods of me:
 
-[LGX_LITE_UMBILICAL](Minsekt/LGX_Lite_Umbilical)
+✖️LGX LITE UMBILICAL
 
-[MGN12H Native Euclid X-Carriage](Minsekt/MGN12H_Native_Euclid)
+✖️MGN12H NATIVE EUCLID CARRIAGE
 
 ![1](images/2022-04-21T22_36_35.png)
 ![2](images/2022-04-21T22_37_08.png)
