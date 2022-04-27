@@ -5,7 +5,7 @@ Works fine with this mod of me:
 
 ✖️ LGX LITE UMBILICAL
 
-Offset: 
+Probe Offset: 
 
 X: 0
 
