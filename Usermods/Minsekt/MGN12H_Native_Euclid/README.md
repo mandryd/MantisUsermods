@@ -1,13 +1,17 @@
 # MGN12H Native Euclid X Carriage
 
-❗ATTENTION ❗
 
-Currently only working in the combination with these two mods of me:
+Works fine with this mod of me:
 
 ✖️ LGX LITE UMBILICAL
 
-✖️ Dragon_Sensorised_Hotend_Carriage_(LGX_LITE)
+Probe Offset: 
+
+X: 0
+
+Y: 26
 
 ![1](images/2022-04-16T22_53_09.png)
+![2](images/2022-04-27T18_38_38.png)
 
 
