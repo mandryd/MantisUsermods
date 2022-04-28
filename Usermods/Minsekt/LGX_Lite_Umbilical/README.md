@@ -10,13 +10,13 @@
 ❗ATTENTION ❗
  Confirmed to work with
  
-✖️ MGN12H NATIVE EUCLID CARRIAGE 
+✖️ My MGN12H NATIVE EUCLID CARRIAGE 
 
-✖️Henrikssn's Carriage (on Kayosmakers repo, yet to be merged)
+✖️ Henrikssn's Carriage (on Kayosmakers repo, yet to be merged)
 
-✖️Kayosmaker's Carriage (on his repo, yet to be merged)
+✖️ NATIVE KLICKY Kayosmaker's Carriage (on his repo, yet to be merged)
 
-Works best with this [Rear Umbilical Mod](https://github.com/Minsekt/MantisUsermods/tree/main/Usermods/Minsekt/LGX_Lite_Umbilical) of me.
+Works best with this [Rear Umbilical Mod](https://github.com/Minsekt/moronvods/tree/main/Rear_Umbilical) of me.
 
 ![](images/IMG_8925.jpg)
 ![](images/2022-04-16T22_53_09.png)
