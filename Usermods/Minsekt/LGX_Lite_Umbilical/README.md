@@ -8,10 +8,13 @@
 | M3x4MM | 2 |
 
 ❗ATTENTION ❗
+ Confirmed to work with
+ 
+✖️ MGN12H NATIVE EUCLID CARRIAGE 
 
-Currently only working in the combination with these two mods of me:
+✖️Henrikssn's Carriage (on Kayosmakers repo, yet to be merged)
 
-✖️MGN12H NATIVE EUCLID CARRIAGE
+✖️Kayosmaker's Carriage (on his repo, yet to be merged)
 
 Works best with this [Rear Umbilical Mod](https://github.com/Minsekt/MantisUsermods/tree/main/Usermods/Minsekt/LGX_Lite_Umbilical) of me.
 
