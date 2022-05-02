@@ -1,9 +1,7 @@
-**Huvud Mounting Brackets for Mantis**
+**LGX Lite and Klicky Carriage for Mantis**
 
-![](images/huvud_brackets.png)
+![](images/carriage_front.png)
+![](images/carriage_rear.png)
+![](images/carriage_bottom.png)
 
-The high centered umbilical bracket has the best look overall, but will chew into Z a little bit.  If you never use your full Z, you might not care.
-
-The low rider umbilical bracket should allow full Z usage.
-
-The plain bracket is provided as a starting point, or for someone with another solution already.  I don't think any of these will work with cable chains on X.
+This is a straightforward combination of TheWarolf's LGX Lite Carriage with the current version of my Klicky Carriage.  Be sure to use the included dock mount for Klicky, as it positions things at the right height to match this carriage.  Use the current version of of Klicky and it's dock to go with these parts.
