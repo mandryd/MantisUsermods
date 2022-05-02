@@ -16,4 +16,7 @@ Mantis Usermods
 <TR><TD align="CENTER"></TD><TD align="CENTER"><a href="https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead/Sailfin_Mount">Sailfin Carriage</A></TD><TD>MGN12 carriage to use the Sailfin Extruder. </TD></TR>
 <TR><TD align="CENTER"></TD><TD align="CENTER"><a href="https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead/LGX_Lite_Toolhead">LGX Lite Toolhead</A></TD><TD>Mantis modified to work with LGX Lite</TD></TR>
 <TR><TD align="CENTER">Wingzero</TD><TD align="CENTER"><a href="Wingzero/">Mosquito Hotend Mount</A></TD><TD>Mount a Mosquito hotend with Mantis</TD></TR>
-</TABLE>
+
+<TR><TD align="CENTER">Minsekt</TD><TD align="CENTER"><a href="Minsekt/Nozzle_LED_Ducts/">Nozzle LED Ducts</TD></A><TD>Neopixel Nozzle LEDs like Stealthburner</TD></TR>
+<TR><TD align="CENTER"></TD><TD align="CENTER"><a href="Minsekt/MGN12H_Native_Euclid">MGN12H Native Euclid X-Carriage</A></TD><TD>Native Euclid MGN12H X-Carriage</TD></TR>
+<TR><TD align="CENTER"></TD><TD align="CENTER"><a href="Minsekt/LGX_Lite_Umbilical">LGX Lite Umbilical</A></TD><TD>Umbilical Toolhead Mod</TD></TR><TR><TD align="CENTER"></TD><TD align="CENTER"><a href="Minsekt/Dragon_Sensorised_Carriage_(LGX_LITE)">Sensorised Hotend Mount</A></TD><TD>Modified Version of The Warolf's Version</TD></TR></TABLE>
