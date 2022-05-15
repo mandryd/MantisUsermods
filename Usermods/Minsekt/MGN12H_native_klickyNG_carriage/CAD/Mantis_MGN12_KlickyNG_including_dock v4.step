@@ -11,8 +11,8 @@ FILE_DESCRIPTION(
 FILE_NAME(
 /* name */ 
 'C:/Users/gamin/GitHub/MantisUsermods/Usermods/Minsekt/MGN12H_native_k
-lickyNG_carriage/CAD/Mantis_MGN12_KlickyNG_including_dock v2.step',
-/* time_stamp */ '2022-05-15T07:17:24+02:00',
+lickyNG_carriage/CAD/Mantis_MGN12_KlickyNG_including_dock v4.step',
+/* time_stamp */ '2022-05-15T07:30:07+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -55424,7 +55424,7 @@ SOLID_ANGLE_UNIT()
 #51340=SHAPE_REPRESENTATION('',(#28422),#51300);
 #51341=PRODUCT_DEFINITION_CONTEXT('part definition',#51370,'design');
 #51342=PRODUCT_DEFINITION('Mantis_MGN12_KlickyNG_including_dock',
-'Mantis_MGN12_KlickyNG_including_dock v2',#51351,#51341);
+'Mantis_MGN12_KlickyNG_including_dock v3',#51351,#51341);
 #51343=PRODUCT_DEFINITION('NG Unklicky Carriage','NG Unklicky Carriage',
 #51352,#51341);
 #51344=PRODUCT_DEFINITION('M2x8 Self-tapping Screw (1)',
@@ -55448,8 +55448,8 @@ SOLID_ANGLE_UNIT()
 #51358=PRODUCT_DEFINITION_FORMATION('',$,#51379);
 #51359=PRODUCT_DEFINITION_FORMATION('',$,#51380);
 #51360=PRODUCT_RELATED_PRODUCT_CATEGORY(
-'Mantis_MGN12_KlickyNG_including_dock v2',
-'Mantis_MGN12_KlickyNG_including_dock v2',(#51372));
+'Mantis_MGN12_KlickyNG_including_dock v3',
+'Mantis_MGN12_KlickyNG_including_dock v3',(#51372));
 #51361=PRODUCT_RELATED_PRODUCT_CATEGORY('NG Unklicky Carriage',
 'NG Unklicky Carriage',(#51373));
 #51362=PRODUCT_RELATED_PRODUCT_CATEGORY('M2x8 Self-tapping Screw (1)',
@@ -55469,7 +55469,7 @@ SOLID_ANGLE_UNIT()
 'Core Data for Automotive Mechanical Design Process');
 #51371=PRODUCT_CONTEXT('part definition',#51370,'mechanical');
 #51372=PRODUCT('Mantis_MGN12_KlickyNG_including_dock',
-'Mantis_MGN12_KlickyNG_including_dock v2',$,(#51371));
+'Mantis_MGN12_KlickyNG_including_dock v3',$,(#51371));
 #51373=PRODUCT('NG Unklicky Carriage','NG Unklicky Carriage',$,(#51371));
 #51374=PRODUCT('M2x8 Self-tapping Screw (1)',
 'M2x8 Self-tapping Screw (1)',$,(#51371));
